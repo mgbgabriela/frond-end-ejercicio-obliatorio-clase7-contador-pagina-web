@@ -1,2 +1,2 @@
-# frond-end-ejercicio-obliatorio-clase7-contador-pagina-web
+# front-end-ejercicio-clase-5
 Created with CodeSandbox
